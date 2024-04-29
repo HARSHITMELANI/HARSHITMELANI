@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm HARSHIT MELANI</h1>
 <h3 align="center">"Unlocking Data's Potential: Analyzing Insights for Strategic Advantage"</h3>
 
-<p align="right">
+<p align="center">
   <img src="https://www.caxsol.com/assets/img/data-analysis.gif" alt="Analysis" width="600" height="300">
 </p>
 
